@@ -1,2 +1,3 @@
 # fitness
-a website about fitness
+a website about fitness.health and workouts
+
